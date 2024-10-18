@@ -41,7 +41,7 @@ Installation
 
     bash
 
-git clone https://github.com/Khalil68/project-DOS.git
+git clone https://github.com/Khalil68/Project-DOS.git
 
 Install the dependencies:
 
